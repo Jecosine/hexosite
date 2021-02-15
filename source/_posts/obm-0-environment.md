@@ -125,6 +125,12 @@ nvm npm_mirror https://npm.taobao.org/mirrors/npm/
 
 如果你需要做go的多版本管理, 可以试试使用 [gvm](https://github.com/moovweb/gvm)
 
+**Linux**下安装
+
+```bash
+bash < <(curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/master/binscripts/gvm-installer)
+```
+
 
 
 #### **go的下载太慢?**
